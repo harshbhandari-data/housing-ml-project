@@ -5,7 +5,7 @@ import os
 MODEL_FILE = "model/model.pkl"
 PIPELINE_FILE = "model/pipeline.pkl"
 
-INPUT_FILE = "data/input.csv"
+INPUT_FILE = "data/input_sample.csv"
 OUTPUT_FILE = "data/output.csv"
 
 # check if model exists

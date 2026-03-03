@@ -13,25 +13,28 @@ The goal was to build a clean machine learning workflow including:
 
 ---
 
+
 ## ⚙️ Project Structure
 
+```
 housing-project/
 │
 ├── data/
-│ ├── housing.csv
-│ └── input_sample.csv
+│   ├── housing.csv
+│   └── input_sample.csv
 │
 ├── model/
-│ ├── model.pkl
-│ └── pipeline.pkl
+│   ├── model.pkl
+│   └── pipeline.pkl
 │
 ├── src/
-│ ├── train.py
-│ ├── predict.py
-│ └── model_comparison.py
+│   ├── train.py
+│   ├── predict.py
+│   └── model_comparison.py
 │
 ├── requirements.txt
 └── README.md
+```
 
 ## 🧠 Approach
 

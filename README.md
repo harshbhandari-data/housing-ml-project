@@ -15,7 +15,6 @@ The goal was to build a clean machine learning workflow including:
 
 
 ## ⚙️ Project Structure
-
 ```
 housing-project/
 │
@@ -35,7 +34,6 @@ housing-project/
 ├── requirements.txt
 └── README.md
 ```
-
 ## 🧠 Approach
 
 1. Used **StratifiedShuffleSplit** based on median income.
